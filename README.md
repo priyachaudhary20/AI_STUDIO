@@ -443,6 +443,7 @@ Environment Variables
 Create a `.env` file in the project root directory and add the required API keys:
 
 GEMINI_API_KEY=your_gemini_api_key
+
 STABILITY_API_KEY=your_stability_api_key
 
 The system uses:
