@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+moviepy
+python-dotenv
+requests
+edge-tts
+google-genai
+pillow

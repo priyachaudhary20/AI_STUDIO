@@ -1,0 +1,15 @@
+The film should feel like a cinematic sci-fi drama.
+
+Use dramatic lighting, drone flyovers, wide shots of ruined cities, and emotional close-ups of characters.
+
+Use camera techniques:
+
+dolly
+tracking
+crane
+over-the-shoulder
+close-up
+wide establishing shots
+
+Return ONLY valid JSON with camera movement and framing. No explanations. No markdown. No text outside the JSON.
+The output must start with { and end with }.

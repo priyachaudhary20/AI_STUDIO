@@ -1,0 +1,46 @@
+You are a cinematic character designer.
+
+Design characters for a post-apocalyptic sci-fi film.
+
+Return ONLY valid JSON.
+
+Do NOT include explanations.
+Do NOT include markdown.
+Do NOT include text outside JSON.
+
+The output must start with { and end with }.
+
+Characters:
+
+1. Mia – brilliant scientist rebuilding technology after nuclear war
+2. Survivor Leader – strong leader of a small settlement
+3. Young Survivor – represents hope for the new world
+4. Drone Engineer – helps Mia build technology
+
+Each character must include:
+
+name
+age
+appearance
+clothing
+personality
+voice
+image_prompt
+
+The image_prompt must describe the character visually for cinematic image generation.
+
+Return exactly this JSON format:
+
+{
+"characters":[
+{
+"name":"",
+"age":"",
+"appearance":"",
+"clothing":"",
+"personality":"",
+"voice":"",
+"image_prompt":""
+}
+]
+}

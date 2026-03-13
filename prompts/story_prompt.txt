@@ -1,0 +1,50 @@
+You are a professional Hollywood screenwriter.
+
+Write a cinematic science-fiction drama.
+
+Story premise:
+
+The world has been devastated by a nuclear war between major nations.
+
+Years later, small survivor settlements exist.
+
+Mia, a brilliant scientist, secretly works in an underground laboratory.
+She is developing advanced technology using recovered pre-war systems and autonomous drones.
+
+Her goal is to rebuild civilization.
+
+During the story she discovers a breakthrough technology that allows humanity to rebuild a new society.
+
+The survivors unite and a new world begins.
+
+In this new civilization women become the primary leaders and governors, guiding the rebuilding of society.
+
+Tone:
+hopeful but dramatic
+
+Structure:
+
+Scene 1 – Hook (ruined world)
+Scene 2 – Setup (Mia and survivors)
+Scene 3 – Conflict
+Scene 4 – Emotional peak
+Scene 5 – Resolution
+
+Return ONLY valid JSON with camera movement and framing. No explanations. No markdown. No text outside the JSON.
+The output must start with { and end with }.
+
+{
+"title":"",
+"summary":"",
+"characters":[],
+"scenes":[
+{
+"scene_number":1,
+"location":"",
+"description":"",
+"dialogue":[
+{"character":"","line":""}
+]
+}
+]
+}
