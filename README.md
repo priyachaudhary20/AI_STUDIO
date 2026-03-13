@@ -73,6 +73,8 @@ User Prompt
 
 The pipeline is orchestrated by a central controller which manages execution order and data exchange between agents.
 
+Note: Some agents such as the Camera Agent, Music Agent, Subtitle Agent, and Editor Agent are included in the architecture design to demonstrate the extensible multi-agent workflow. In the current prototype, core functionality is implemented through the Story, Character, Scene Planner, Image, Voice, and Video agents. The additional agents illustrate how the system can be extended in future iterations without restructuring the pipeline.
+
 ---
 
 ## System Architecture Diagram
