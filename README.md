@@ -468,11 +468,17 @@ output/final_video.mp4
 # Technologies Used
 
 Python
+
 Gemini 2.5 Flash
+
 Edge TTS
+
 MoviePy
+
 FastAPI
+
 Stability AI (image generation)
+
 FFmpeg-based video processing
 
 ---
