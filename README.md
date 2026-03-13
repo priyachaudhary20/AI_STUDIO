@@ -16,7 +16,8 @@ The generated drama video is included directly in the repository.
 ```
 output/final_video.mp4
 ```
-
+Due to GitHub file preview limitations for large video files, the video may not play directly in the browser.
+Download the file locally to watch the generated short drama.
 The video is produced automatically by the pipeline after all agents complete their tasks.
 
 Generated visual scenes and dialogue audio files used during production are also included in the repository for transparency and inspection:
